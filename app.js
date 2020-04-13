@@ -16,6 +16,6 @@ io.sockets.on('connect',(socket)=>{
 
 
 
-http.listen(3000,()=>{
+http.listen(5000,()=>{
     console.log('server is runnig on port 3000');
 }); 
